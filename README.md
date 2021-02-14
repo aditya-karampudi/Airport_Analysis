@@ -48,9 +48,11 @@ Data frame with columns
 
 **Visualizations**
 
-![](media/image1.png){width="6.39375in"
-height="3.2522058180227473in"}**Graphical representation of carriers
+**Graphical representation of carriers
 scheduled flights in numbers and %**
+
+
+![](media/image1.png)
 
 -   The number of flights of each carrier that depart from NYC. The
     United Airlines has nearly 60K flights, then by Jetblue trailing in
@@ -61,8 +63,7 @@ scheduled flights in numbers and %**
 
 **Overall pattern of departure time from NYC airports**
 
-![](media/image2.png){width="4.751412948381453in"
-height="4.759027777777778in"}
+![](media/image2.png) 
 
 -   Overall pattern of departure time from NYC airports The highest IQ
     range (900 to 1800) is for JFK, where 75% flights are falling under
@@ -77,15 +78,14 @@ height="4.759027777777778in"}
 
 3.  **LGA 101140**
 
-![](media/image3.png){width="7.021917104111986in"
-height="3.5597222222222222in"}
+![](media/image3.png) 
 
 The number of flights from three different airports in New York. All
 three have quite huge number of flights departures all around the year
 but EWR airport comes first with almost 120K flights.
 
-![](media/image4.png){width="3.972571084864392in" height="2.56in"}
-
+![](media/image4.png)
+ 
 Most flights destinations are to Chicago, Atlanta and Los Angeles.
 Together the number of flights are nearly 50K. Then comes Boston,
 Orlando and others.
@@ -99,32 +99,34 @@ Orlando and others.
 
 -   **Total unique aircraft headed to \'BOS\' from NYC is 1308**
 
-![](media/image5.png){width="2.828857174103237in"
-height="4.537142388451444in"}
+![](media/image5.png) 
 
 The average monthly delay time for One air carrier. Most delays are in
 May, June and July. The least delay months are in September, October,
 and November.
 
-![](media/image6.png){width="6.5in" height="3.1875in"}
+![](media/image14.png) 
+
+
+![](media/image6.png) 
 
 The Average Monthly Departure Delays are High in the month of June and
 July. The most probable reason is the weather. The delay in December
 might be due to large crowd travelling across.
 
-![](media/image7.png){width="6.182638888888889in"
-height="3.1416666666666666in"}
+![](media/image7.png) 
 
 The Average delay for Arrival is high with Frontier and AirTran Airways.
 The best carrier to reach destination are Hawaiian Airlines and Alaska
 Airlines (Pilots reach holiday destinations faster)
 
-![](media/image8.png){width="6.5in" height="3.2569444444444446in"}The
+ 
 Number of flights that gets delayed. Up to 60% flights do not have any
 delays and just 9% flights gets delayed for more than an hour.
 
-![](media/image9.png){width="5.691428258967629in"
-height="2.416424978127734in"}
+
+![](media/image8.png)
+
 
 -   The top 5 US airline (American Airlines (AA), Southwest Airlines
     (WN), Delta Air Lines (DL), United Airlines (UA), Alaska Airlines
@@ -144,7 +146,7 @@ height="2.416424978127734in"}
     the maximum Carrier Delay for 2013 with an exception of Hawaiian
     Airlines (HA).
 
-![](media/image10.png){width="6.5in" height="2.892361111111111in"}
+![](media/image19.png) 
 
 -   There seems to be a correlation between the number of flights
     operated and departure delay. A descending pattern can be seen from
@@ -152,6 +154,9 @@ height="2.416424978127734in"}
     assumption that JFK being a busiest airport among 3 due to
     international flights; so the maximum departure delay for 2013 is
     registered by JFK.
+
+
+
 
 **Performance Analysis**
 
@@ -167,14 +172,16 @@ height="2.416424978127734in"}
 
 The day and month having highest delay by average for departures
 
+
+![](media/image9.png)
+
+
 -   8/03/2013 Avg-Delay: 83.65
 
 Day and month which have highest number of flight delay
 
 -   23/12/2013 Number of flights: 673
 
-![](media/image11.png){width="6.133027121609799in"
-height="2.702856517935258in"}
 
 -   Skewness\_arr: 3.433909
 
@@ -183,6 +190,9 @@ height="2.702856517935258in"}
 -   Skewness\_dep: 3.250293
 
 -   Kurtosis\_dep: 22.521400
+
+![](media/image10.png) 
+
 
 It can be seen on the histogram and by the skewness and kurtosis
 indexes, that the skewness is \>1 which reflect the data distribution is
@@ -195,8 +205,8 @@ the graph, with a long tail to the right. The majority of delays are
 short, and the longer delays, while unusual, are more heavy loaded in
 time.
 
-![](media/image12.png){width="3.1104166666666666in"
-height="2.685416666666667in"}
+
+
 
 Top 5 destinations where flights arrives early than expected arrival
 time:
@@ -211,13 +221,12 @@ time:
 
 -   SNA
 
-> Top 5 fastest flights from NYC
->
-> ![](media/image13.png){width="7.220833333333333in"
-> height="3.1881944444444446in"}
+Top 5 fastest flights from NYC
 
-![](media/image14.png){width="5.62117782152231in" height="4.56in"}
+![](media/image11.png) 
 
+![](media/image14.png)
+ 
 The peak season for air travel in USA is considered to be June to August
 and lean season is mid of January to February. The airlines operate
 highest number of flights and carry maximum PAX load during the summer
