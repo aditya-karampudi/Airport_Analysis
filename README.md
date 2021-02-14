@@ -101,26 +101,30 @@ Orlando and others.
 
 ![](media/image5.png) 
 
+![](media/image14.png) 
+
+
 The average monthly delay time for One air carrier. Most delays are in
 May, June and July. The least delay months are in September, October,
 and November.
 
-![](media/image14.png) 
 
 
 ![](media/image6.png) 
+
 
 The Average Monthly Departure Delays are High in the month of June and
 July. The most probable reason is the weather. The delay in December
 might be due to large crowd travelling across.
 
+
 ![](media/image7.png) 
+
 
 The Average delay for Arrival is high with Frontier and AirTran Airways.
 The best carrier to reach destination are Hawaiian Airlines and Alaska
 Airlines (Pilots reach holiday destinations faster)
 
- 
 Number of flights that gets delayed. Up to 60% flights do not have any
 delays and just 9% flights gets delayed for more than an hour.
 
@@ -172,16 +176,14 @@ delays and just 9% flights gets delayed for more than an hour.
 
 The day and month having highest delay by average for departures
 
-
-![](media/image9.png)
-
-
 -   8/03/2013 Avg-Delay: 83.65
 
 Day and month which have highest number of flight delay
 
 -   23/12/2013 Number of flights: 673
 
+
+![](media/image9.png)
 
 -   Skewness\_arr: 3.433909
 
@@ -190,8 +192,6 @@ Day and month which have highest number of flight delay
 -   Skewness\_dep: 3.250293
 
 -   Kurtosis\_dep: 22.521400
-
-![](media/image10.png) 
 
 
 It can be seen on the histogram and by the skewness and kurtosis
@@ -205,6 +205,7 @@ the graph, with a long tail to the right. The majority of delays are
 short, and the longer delays, while unusual, are more heavy loaded in
 time.
 
+![](media/image10.png) 
 
 
 
@@ -225,7 +226,8 @@ Top 5 fastest flights from NYC
 
 ![](media/image11.png) 
 
-![](media/image14.png)
+
+![](media/image12.png)
  
 The peak season for air travel in USA is considered to be June to August
 and lean season is mid of January to February. The airlines operate
